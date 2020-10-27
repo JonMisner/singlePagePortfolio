@@ -2,11 +2,16 @@ canvas-wrapper-inner {
    background-color: #b8d5cd;
 }
 
+/* .orbit-figure {
+   max-width: 90%;
+} */
+
 .icon {
-   min-height: 50%;
-   min-width: 50%;
-   max-height: 50px;
-   max-width: 50px;
+   min-height: 22%;
+   min-width: 22%;
+   max-height: 46px;
+   max-width: 46px;
+   margin-bottom: .6em;
 }
 
 .off-canvas {
@@ -37,20 +42,20 @@ hr {
    background-color: #006a4e;
 }
 
-.side-icon {
-   min-height: 15%;
-   min-width: 15%;
-   max-height: 30px;
-   max-width: 30px;
+.top-icon {
+   min-height: 20%;
+   min-width: 20%;
+   max-height: 45px;
+   max-width: 45px;
 }
 
 .thumbnail { 
-   margin-bottom: 3em;
+   margin-bottom: 2em;
 }
 
 h3 {
    margin-left: 1em;
-   margin-bottom: 1em;
+   /* margin-bottom: 1em; */
    color: white;
 }
 
@@ -62,4 +67,20 @@ h5 {
    margin-left: .5em;
    margin-bottom: 1em;
    color: white;
+}
+
+.github {
+   float: right;
+}
+
+a {
+   color: white;
+}
+
+.hidden{
+   display: none;
+}
+
+.show {
+   display: inline-block;
 }
