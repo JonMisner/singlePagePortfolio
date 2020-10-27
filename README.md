@@ -24,7 +24,8 @@
 ***
   ## Contact Information
 
-     JonMisner or jonmisner86@gmail.com
+     GitHub:JonMisner 
+     or jonmisner86@gmail.com
 ***
     ### License: MIT
 ***  
