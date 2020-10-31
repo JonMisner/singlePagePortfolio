@@ -12,6 +12,7 @@ canvas-wrapper-inner {
    max-height: 46px;
    max-width: 46px;
    margin-bottom: .6em;
+   margin-left: 1em;
 }
 
 .off-canvas {
@@ -27,11 +28,11 @@ canvas-wrapper-inner {
 }
 
 .orbit {
-   background-color: #b8d5cd;
+   background-color: #004D6A;
 }
 
 .off-canvas-content {
-   background-color: #b8d5cd;
+   background-color: #004D6A;
 }
 
 hr {
